@@ -3,7 +3,7 @@
 **`Web Architect`**
 
 I'm full stack developer!
-My weapon of choice is Java!
+My weapon of choice is Java and React!
 Always upgrading myself!
 
 ---
